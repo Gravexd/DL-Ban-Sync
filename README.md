@@ -8,7 +8,7 @@ Feel free to add anything to this script in tems of exports etc. Just hmu if you
 
 Join this discord for any support questions 
 
-[![Developer Discord](https://discord.gg/8JtwNSUYZM)]  ![image](https://github.com/user-attachments/assets/877494ad-ac79-4132-b391-76be2d783fcd)
+(https://discord.gg/8JtwNSUYZM)
 
 
 ### Configuration
