@@ -8,9 +8,15 @@ Join this discord for any support questions
 https://discord.gg/8JtwNSUYZM
 
 Configuration
+
 BotToken - This should be your bot token of the bot that will do the requests (NOTE: Must be in the server that you are requesting from)
+
 GuildId - This is the guild id that you want to fetch the bans form (NOTE: The bot must be in the guild and the bans should only be in that guild)
+
 LogWebhook - The webhook url to log if a banned user joins with all their license info 👍
+
 BanMessage - The message to show banned users
+
 Developer Guide
+
 Nothing atm
