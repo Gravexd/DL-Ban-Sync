@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Gravexd'
+author 'Vile'
 description 'Ban Sync script'
 
 server_scripts {
